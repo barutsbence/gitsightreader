@@ -1,0 +1,7 @@
+{
+  "name": "26Nov Guitar SightReader",
+  "description": "An interactive guitar practice tool that listens to your playing and helps you master sight-reading in the first position.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
