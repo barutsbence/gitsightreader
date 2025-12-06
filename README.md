@@ -1,0 +1,2 @@
+# gitsightreader
+kottaolvasás gitár, basszusgitár
